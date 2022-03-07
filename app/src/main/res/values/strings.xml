@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task Efishery</string>
+    <string name="filterKomoditas">Komoditas</string>
+    <string name="filterProvinsi">Provinsi</string>
+    <string name="filterKabupaten">Kabupaten</string>
+    <string name="filterUkuran">Ukuran</string>
+    <string name="filterHarga">Harga</string>
+    <string name="formKomoditas">Nama Komoditas</string>
+    <string name="formSize">Size (Dalam CM)</string>
+    <string name="formPrice">Harga</string>
+    <string name="buttonAdd">Tambah</string>
+    <string name="buttonSave">Simpan</string>
+
+    <string-array name="formProvinsi">
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Barat</item>
+    </string-array>
+    <string-array name="formKabupaten">
+        <item>Bondowoso</item>
+        <item>Bantul</item>
+        <item>Bandung</item>
+    </string-array>
+</resources>
